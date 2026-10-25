@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="190" viewBox="0 0 820 190" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="14">
-<rect width="820" height="190" rx="10" fill="#0a0e0a" stroke="#1f6f3a" stroke-width="2"/>
-<text x="20" y="54" fill="#9da7b3" opacity="0">[<tspan fill="#33ff66"> OK </tspan>] Starting VK-OS 2026.1 ...<animate attributeName="opacity" calcMode="discrete" dur="6s" repeatCount="indefinite" keyTimes="0;0.0833;0.95" values="0;1;0"/></text><text x="20" y="76" fill="#9da7b3" opacity="0">[<tspan fill="#33ff66"> OK </tspan>] Mounting /dev/skills ............<animate attributeName="opacity" calcMode="discrete" dur="6s" repeatCount="indefinite" keyTimes="0;0.1667;0.95" values="0;1;0"/></text><text x="20" y="98" fill="#9da7b3" opacity="0">[<tspan fill="#33ff66"> OK </tspan>] Loading modules: python js kotlin<animate attributeName="opacity" calcMode="discrete" dur="6s" repeatCount="indefinite" keyTimes="0;0.25;0.95" values="0;1;0"/></text><text x="20" y="120" fill="#9da7b3" opacity="0">[<tspan fill="#33ff66"> OK </tspan>] Initialising trading engine ....<animate attributeName="opacity" calcMode="discrete" dur="6s" repeatCount="indefinite" keyTimes="0;0.3333;0.95" values="0;1;0"/></text>
-<text x="20" y="160" fill="#33ff66">loading</text>
-<rect x="95" y="147" width="600" height="16" fill="none" stroke="#33ff66"/>
-<rect x="98" y="150" height="10" fill="#33ff66" width="0"><animate attributeName="width" dur="6s" repeatCount="indefinite" keyTimes="0;0.8;1" values="0;594;594"/></rect>
-<text x="710" y="160" fill="#33ff66">100%<animate attributeName="opacity" calcMode="discrete" dur="6s" repeatCount="indefinite" keyTimes="0;0.8;0.97" values="0;1;0"/></text>
-</svg>
