@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Profile Assets
 on:
   schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
@@ -6,9 +6,18 @@ on:
 permissions:
   contents: write
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Stats card
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/stats.py
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

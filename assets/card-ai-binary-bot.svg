@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436" height="158" viewBox="0 0 436 158">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#181a24"/><stop offset="1" stop-color="#11121a"/></linearGradient>
+<linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="-436" y1="0" x2="0" y2="158"><stop offset="0" stop-color="#2a2d3a"/><stop offset=".5" stop-color="#4f9dff"/><stop offset=".75" stop-color="#bf5af2"/><stop offset="1" stop-color="#2a2d3a"/>
+<animate attributeName="x1" values="-436;436" dur="6s" repeatCount="indefinite"/><animate attributeName="x2" values="0;872" dur="6s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7db7ff"/><stop offset="1" stop-color="#c58bff"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="434" height="156" rx="14"/></clipPath></defs>
+<rect x="1" y="1" width="434" height="156" rx="14" fill="url(#bg)"/>
+<g clip-path="url(#c)"><rect x="-140" y="-20" width="90" height="198" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-140;496" dur="7s" begin="2s" repeatCount="indefinite"/></rect></g>
+<rect x="1" y="1" width="434" height="156" rx="14" fill="none" stroke="url(#bd)" stroke-width="1.4"/>
+<g transform="translate(26,21)" fill="none" stroke="#8e9aff" stroke-width="1.6" stroke-linecap="round"><rect width="13" height="16" rx="2.5"/><path d="M4 5h5M4 9h5"/></g>
+<text x="50" y="35" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="url(#nm)">ai-binary-bot</text>
+<g transform="translate(358,19)"><rect width="52" height="21" rx="10.5" fill="none" stroke="#3a3a3c"/><text x="26" y="14.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#8e8e93">Public</text></g>
+<text x="26" y="70" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#a1a1aa">AI-powered binary trading bot with machine</text><text x="26" y="92" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#a1a1aa">learning predictions and risk management.</text>
+<line x1="26" x2="410" y1="112" y2="112" stroke="#fff" stroke-opacity=".07"/>
+<circle cx="31" cy="136" r="5.5" fill="#3572A5"/><circle cx="31" cy="136" r="5.5" fill="none" stroke="#3572A5"><animate attributeName="r" values="5.5;11" dur="2.4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".8;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="45" y="141" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#c7c7cc">Python</text>
+<text x="384" y="141" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#0a84ff">View repository</text>
+<path transform="translate(392,132)" d="M0 1l6 4-6 4" fill="none" stroke="#0a84ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;4,0;0,0" dur="1.6s" repeatCount="indefinite"/></path>
+</svg>
