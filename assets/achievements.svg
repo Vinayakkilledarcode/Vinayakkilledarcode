@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150">
+<style>
+text{font-family:'Courier New',Consolas,monospace;text-anchor:middle}
+.t{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.g{animation:gl 3s ease-in-out infinite}
+@keyframes gl{0%,100%{stroke-opacity:.35}50%{stroke-opacity:1}}
+</style>
+<g class="t" style="animation-delay:0.00s"><rect class="g" x="14.3" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="89.3" y="75" font-size="34" font-weight="bold" fill="#00C7B7">12</text><text x="89.3" y="105" font-size="12" fill="#c9d1d9">PUBLIC REPOS</text></g>
+<g class="t" style="animation-delay:0.15s"><rect class="g" x="178.6" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="253.6" y="75" font-size="34" font-weight="bold" fill="#00C7B7">~100</text><text x="253.6" y="105" font-size="12" fill="#c9d1d9">INDICATORS</text></g>
+<g class="t" style="animation-delay:0.30s"><rect class="g" x="342.9" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="417.9" y="75" font-size="34" font-weight="bold" fill="#00C7B7">11</text><text x="417.9" y="105" font-size="12" fill="#c9d1d9">STRATEGY MODULES</text></g>
+<g class="t" style="animation-delay:0.45s"><rect class="g" x="507.1" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="582.1" y="75" font-size="34" font-weight="bold" fill="#00C7B7">3</text><text x="582.1" y="105" font-size="12" fill="#c9d1d9">TRADING SYSTEMS</text></g>
+<g class="t" style="animation-delay:0.60s"><rect class="g" x="671.4" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="746.4" y="75" font-size="34" font-weight="bold" fill="#00C7B7">5</text><text x="746.4" y="105" font-size="12" fill="#c9d1d9">LANGUAGES</text></g>
+<g class="t" style="animation-delay:0.75s"><rect class="g" x="835.7" y="15" width="150" height="120" rx="12" fill="#0d1117" stroke="#00C7B7" stroke-width="2"/><text x="910.7" y="75" font-size="34" font-weight="bold" fill="#00C7B7">2026</text><text x="910.7" y="105" font-size="12" fill="#c9d1d9">VIT CSE BATCH</text></g>
+</svg>

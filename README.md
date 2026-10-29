@@ -18,7 +18,7 @@
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-SHAP-00C7B7?style=for-the-badge&logoColor=white)
 ![VIT](https://img.shields.io/badge/VIT%20Chennai-CSE%20'26-00C7B7?style=for-the-badge&logoColor=white)
 
-![views](https://komarev.com/ghpvc/?username=Vinayakkilledarcode&label=Profile%20views&color=00C7B7&style=for-the-badge)
+![views](https://hits.sh/github.com/Vinayakkilledarcode.svg?style=for-the-badge&label=Profile%20views&color=00C7B7&labelColor=555555)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayakkilledarcode)
 <!-- Uncomment and fill in when ready:
@@ -56,7 +56,7 @@ Android (Kotlin)        ███████░░░░░░░  55%
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vinayakkilledarcode&theme=darkhub&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="assets/achievements.svg" alt="achievements" width="100%" />
 
 </div>
 
@@ -179,7 +179,7 @@ Android (Kotlin)        ███████░░░░░░░  55%
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vinayakkilledarcode&label=Profile%20views&color=00C7B7&style=for-the-badge" alt="views" />
+<img src="https://hits.sh/github.com/Vinayakkilledarcode.svg?style=for-the-badge&label=Profile%20views&color=00C7B7&labelColor=555555" alt="views" />
 <img src="https://img.shields.io/github/followers/Vinayakkilledarcode?label=Followers&style=social" alt="followers" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=720&lines=Feel+free+to+reach+out+for+collaborations;Let's+build+something+great+together" alt="reach out" />
