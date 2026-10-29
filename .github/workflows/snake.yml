@@ -1,30 +1,31 @@
-name: Profile Assets
+name: Generate Snake
+
 on:
-  schedule: [{ cron: "0 */12 * * *" }]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push: { branches: [main] }
+  push:
+    branches:
+      - main
+
 permissions:
   contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
-      - name: Stats card
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ${{ github.repository_owner }}
-        run: python scripts/stats.py
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake from contribution graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#0a84ff
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#0a84ff
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
