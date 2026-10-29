@@ -165,15 +165,15 @@ Android (Kotlin)        ███████░░░░░░░  55%
 
 <table>
 <tr>
-<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Vinayakkilledarcode/Vinayakkilledarcode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="profile details" /></td>
+<td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayakkilledarcode&theme=radical" alt="profile details" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Vinayakkilledarcode/Vinayakkilledarcode/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="top languages by repo" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Vinayakkilledarcode/Vinayakkilledarcode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="top languages by commit" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayakkilledarcode&theme=radical" alt="top languages by repo" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayakkilledarcode&theme=radical" alt="top languages by commit" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Vinayakkilledarcode/Vinayakkilledarcode/main/profile-summary-card-output/radical/3-stats.svg" alt="stats" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Vinayakkilledarcode/Vinayakkilledarcode/main/profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinayakkilledarcode&theme=radical" alt="stats" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinayakkilledarcode&theme=radical" alt="productive time" /></td>
 </tr>
 </table>
 
